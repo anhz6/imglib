@@ -1,2 +1,2 @@
 # imglib
-image lib
+图片库，需要分类。
